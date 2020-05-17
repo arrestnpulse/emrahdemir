@@ -74,6 +74,9 @@ Emrah's main research interest is positioned within the field of green logistics
 Emrah has the following editorial roles:
 
 Area Editor (Logistics and Supply Chain Management) of Journal of Heuristics
+
 Associate Editor of IMA Journal of Management Mathematics
+
 Associate Editor of Frontiers in Future Transportation - Freight Transport and Logistics
+
 A member of Editorial Board for OR Spectrum Journal

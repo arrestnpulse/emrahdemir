@@ -1,0 +1,43 @@
+@font-face {
+font-family: 'icomoon';
+src:  url('../fonts/icomoon.eot?mwe8bn');
+src:  url('../fonts/icomoon.eot?mwe8bn#iefix') format('embedded-opentype'),
+url('../fonts/icomoon.ttf?mwe8bn') format('truetype'),
+url('../fonts/icomoon.woff?mwe8bn') format('woff'),
+url('../fonts/icomoon.svg?mwe8bn#icomoon') format('svg');
+font-weight: normal;
+font-style: normal;
+font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-amazon:before {
+  content: "\e900";
+  color: #f90;
+}
+.icon-arxiv:before {
+  content: "\e901";
+  color: #b31b1b;
+}
+.icon-linkedin:before {
+  content: "\e903";
+  color: #0077b5;
+}
+.icon-microsoftoffice:before {
+  content: "\e904";
+  color: #e74025;
+}

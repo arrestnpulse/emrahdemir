@@ -16,6 +16,12 @@ role: Reader in Management Science
 organizations:
 - name: Cardiff University
   url: "https://www.cardiff.ac.uk/people/view/598253-demir-emrah"
+- name: Cardiff Business School
+  url: "https://www.cardiff.ac.uk/business-school"
+- name: Logistics and Operations Management Section
+  url: "https://www.cardiff.ac.uk/business-school/research/themes/logistics-and-operations-management"
+- name: PARC Institute of Manufacturing, Logistics and Inventory
+  url: "https://www.cardiff.ac.uk/parc-institute-manufacturing-logistics-inventory"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests is positioned within the field of green logistics with respect to negative externalities of freight transportation. 
@@ -49,6 +55,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=5NJ5aH4AAAAJ&hl=en
+- icon: "linkedin"
+  icon_pack: ai
+  link: www.linkedin.com/in/emrahdemir83
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

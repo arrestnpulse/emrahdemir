@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = ""
+subtitle = "Research Projects"
 
 [content]
   # Page type to display. E.g. project.
@@ -26,12 +26,28 @@ subtitle = ""
   #   tag = "*"
   
   # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+  #   name = "Green Logistics"
+  #   tag = "GL"
   
   # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+  #   name = "Last mile Logistics"
+  #   tag = "LML"
+  
+  # [[content.filter_button]]
+  #   name = "Truck Platooning"
+  #   tag = "TP"
+  
+  # [[content.filter_button]]
+  #   name = "VRP"
+  #   tag = "VRP"
+  
+  # [[content.filter_button]]
+  #   name = "Metaheuristics"
+  #   tag = "METAH"
+  
+  # [[content.filter_button]]
+  #   name = "OR"
+  #   tag = "OR"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

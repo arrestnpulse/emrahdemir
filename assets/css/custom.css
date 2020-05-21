@@ -1,13 +1,13 @@
 @font-face {
-font-family: 'icomoon';
-src:  url('../fonts/icomoon.eot?mwe8bn');
-src:  url('../fonts/icomoon.eot?mwe8bn#iefix') format('embedded-opentype'),
-url('../fonts/icomoon.ttf?mwe8bn') format('truetype'),
-url('../fonts/icomoon.woff?mwe8bn') format('woff'),
-url('../fonts/icomoon.svg?mwe8bn#icomoon') format('svg');
-font-weight: normal;
-font-style: normal;
-font-display: block;
+  font-family: 'icomoon';
+  src:  url('static/fonts/icomoon.eot?88fjzy');
+  src:  url('static/fonts/icomoon.eot?88fjzy#iefix') format('embedded-opentype'),
+    url('static/fonts/icomoon.ttf?88fjzy') format('truetype'),
+    url('static/fonts/icomoon.woff?88fjzy') format('woff'),
+    url('static/fonts/icomoon.svg?88fjzy#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
 }
 
 [class^="icon-"], [class*=" icon-"] {
@@ -25,19 +25,7 @@ font-display: block;
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-amazon:before {
-  content: "\e900";
-  color: #f90;
-}
-.icon-arxiv:before {
-  content: "\e901";
-  color: #b31b1b;
-}
 .icon-linkedin:before {
-  content: "\e903";
+  content: "\e900";
   color: #0077b5;
-}
-.icon-microsoftoffice:before {
-  content: "\e904";
-  color: #e74025;
 }

@@ -40,7 +40,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Mnagament Science
+  - course: PhD in Management Science
     institution: Southampton University
     year: 2012
   - course: MSc in Industrial Engineering

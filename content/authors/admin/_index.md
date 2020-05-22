@@ -16,22 +16,26 @@ role: Reader in Management Science
 organizations:
 - name: Cardiff Personal Website
   url: "https://www.cardiff.ac.uk/people/view/598253-demir-emrah"
-- name: Cardiff University
-  url: "https://www.cardiff.ac.uk/"
-- name: Cardiff Business School
-  url: "https://www.cardiff.ac.uk/business-school"
-- name: Logistics and Operations Management Section
-  url: "https://www.cardiff.ac.uk/business-school/research/themes/logistics-and-operations-management"
 - name: PARC Institute of Manufacturing, Logistics and Inventory
   url: "https://www.cardiff.ac.uk/parc-institute-manufacturing-logistics-inventory"
+- name: Logistics and Operations Management Section
+  url: "https://www.cardiff.ac.uk/business-school/research/themes/logistics-and-operations-management"
+- name: Cardiff Business School
+  url: "https://www.cardiff.ac.uk/business-school"
+- name: Cardiff University
+  url: "https://www.cardiff.ac.uk/"
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests is positioned within the field of green logistics with respect to negative externalities of freight transportation. 
 
 interests:
 - Green logistics
+- City logistics
 - Freight Transportation
 - Operational research
+- Matehuristic algortihms
+
 
 
 education:

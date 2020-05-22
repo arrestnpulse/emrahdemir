@@ -93,11 +93,11 @@ address = {street = "Colum Road", city = "cardiff",  postcode = "CF103EU", count
 coordinates = {latitude = "51.491617", longitude = "-3.184785"}
 
 # Directions for visitors to locate you.
-directions = "Enter Aberconway Building and take the stairs to Office C26 on Level 2"
+directions = "Aberconway Building, room number C26 on Level 2"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Wednesday 11:00 to 13:00"]
+office_hours = ["Send an email for an appointment."]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""

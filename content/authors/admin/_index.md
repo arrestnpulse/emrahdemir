@@ -34,7 +34,7 @@ interests:
 - City logistics
 - Freight Transportation
 - Operational research
-- Matehuristic algortihms
+- Metaheuristic algortihms
 
 
 

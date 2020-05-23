@@ -18,4 +18,4 @@ projects: []
 ---
 
 
-Hello Eeverybody, this is my first post. I am hoping to post regularly here about my research. 
+Hello Everybody, this is my first post. I am hoping to post regularly here about my research. 
